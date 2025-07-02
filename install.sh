@@ -196,7 +196,7 @@ clear
 echoyellow "CLONANDO REPOSITÓRIO DO WHATICKET"
 sleep 2
 cd /var/www/html
-git clone https://github.com/unkbot/whaticket-free.git
+git clone https://github.com/davidmaiky/whaticket5.0.git
 
 clear
 echoyellow "CONFIGURANDO .ENV"
